@@ -1,0 +1,2 @@
+# .gitignore
+solving a problem
